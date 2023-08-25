@@ -1,0 +1,26 @@
+.main {
+    height: 330px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+}
+
+h2 {
+    font-size: 56px;
+    line-height: 10px;
+}
+
+h2 span {
+    color: rgb(132, 14, 201);
+}
+
+p{
+    font-size: 23px;
+    line-height: 20px;
+    max-width: 500px;
+}
+
+img{
+    padding-left: 20px;
+    width: 590px;
+}
